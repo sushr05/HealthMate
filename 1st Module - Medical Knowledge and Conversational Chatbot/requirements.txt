@@ -1,0 +1,16 @@
+streamlit
+streamlit-chat
+langchain
+langchain-core
+langchain-groq
+chromadb
+sentence-transformers
+transformers
+torch
+python-dotenv
+deep_translator
+langchain-community
+pypdf
+gTTS
+tf-keras
+pydantic==1.10.13
