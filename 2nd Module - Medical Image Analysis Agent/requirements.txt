@@ -1,0 +1,10 @@
+streamlit==1.40.2
+phidata==2.7.3
+Pillow==10.0.0
+duckduckgo-search
+google-generativeai==0.8.3
+openai
+scholarly
+deep-translator
+gtts
+Python-dotenv
