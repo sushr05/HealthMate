@@ -1,4 +1,4 @@
-## Medical Chatbot
+## HealthMate
 This project is an AI-powered Medical Chatbot designed to assist patients with instant, accurate, and multilingual medical support. It serves as a virtual healthcare assistant that can answer medical questions, analyze scanning reports, and give personalized health and wellness advice.
 
 Built for patients, elderly individuals, and people with limited access to immediate medical consultation, this chatbot also supports visually impaired users through voice-based interaction. It can simplify complex health information and promote better health awareness, anytime and anywhere.
@@ -19,14 +19,14 @@ Built for patients, elderly individuals, and people with limited access to immed
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/medical-chatbot.git
-cd medical-chatbot
+git clone url.git
+cd repo name
 ````
 
 2. **Install dependencies**
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt (do it module wise)
 ```
 
 3. **Run the application**
