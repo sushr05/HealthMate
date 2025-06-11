@@ -1,1 +1,1 @@
-# HealthMate-Modular-Chatbot
+# HealthMate
